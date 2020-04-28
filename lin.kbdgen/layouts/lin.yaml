@@ -1,0 +1,28 @@
+displayNames:
+  en: Lingala
+  lin: Lingala
+modes:
+  mobile:
+    default: |
+      a e b r t y u i o p ?
+       s m f g h n k l mb ?
+        z c v w j d nd gb
+    shift: |
+      A E B R T Y U I O P ?
+       S M F G H N K L Mb ?
+         Z C V W J D Nd Gb  
+longpress:
+  a: á â a
+  e: é ê e
+  i: í î i
+  k: kp
+  m: mp
+  'n': ng nk ns nt
+  o: ó ô o
+  u: ú
+  '?': '?´ ?^ ??'
+targets:
+  ios:
+    legacyName: lingala
+  android:
+    legacyName: lingala
